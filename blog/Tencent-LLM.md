@@ -36,7 +36,8 @@ We have adopted Large Language Models (LLM) to empower our Doris-based OLAP serv
 
 Our incentive was to save our internal staff from the steep learning curve of SQL writing. Thus, we used LLM as an intermediate. It transforms natural language questions into SQL statements and sends the SQLs to the OLAP engine for execution.
 
-![](../static/images/Tencent_LLM_1.png)
+![Tencent-LLM](../static/images/Tencent_LLM_1.png)
+<img src=“../static/images/Tencent_LLM_1.png”, alt=“Tencent-LLM”/>
 
 Like every AI-related experience, we came across some friction:
 
