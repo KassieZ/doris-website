@@ -1,14 +1,14 @@
 export const NEWSLETTER_DATA = [
     {
-        tag: 'Best Practice',
-        title: 'Empowering cyber security by enabling 7 times faster log analysis',
-        to: 'blog/empowering-cyber-security-by-enabling-seven-times-faster-log-analysis',     
-    },
-    {   
         tag: 'Release Notes',
         title: 'Apache Doris Announced the Official Release of Version 2.0.3 ! ',
         to: 'https://doris.apache.org/blog/release-note-2.0.3',
-        hot: true,
+    },
+    {   
+        tag: 'Best Practice',
+        title: 'From Elasticsearch to Apache Doris: upgrading an observability platform',
+        to: 'blog/from-elasticsearch-to-apache-doris-upgrading-an-observability-platform', 
+        hot: true，
     },
     {
         tag: 'Top News',
