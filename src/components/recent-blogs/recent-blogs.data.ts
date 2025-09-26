@@ -1,7 +1,7 @@
 export const RECENT_BLOGS_POSTS = [
     {
-        label: `Apache Doris 3.0.5 Released`,
-        link: 'https://doris.apache.org/blog/release-note-3.0.5',
+        label: `Apache Doris 3.0.6 Released`,
+        link: 'https://doris.apache.org/blog/release-note-3.0.6',
     },
     {
         label: 'How Tencent Music saved 80% in costs by migrating from Elasticsearch to Apache Doris',
